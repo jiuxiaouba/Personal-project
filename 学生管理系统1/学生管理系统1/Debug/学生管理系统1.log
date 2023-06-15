@@ -1,0 +1,5 @@
+﻿  main.cpp
+D:\韦广豪\Documents\VisualStudio2019项目1文件\学生管理系统1\学生管理系统1\main.cpp(100,15): warning C4477: “fprintf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“int *”
+D:\韦广豪\Documents\VisualStudio2019项目1文件\学生管理系统1\学生管理系统1\main.cpp(113,10): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“int *”
+D:\韦广豪\Documents\VisualStudio2019项目1文件\学生管理系统1\学生管理系统1\main.cpp(190,11): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“int *”
+  学生管理系统1.vcxproj -> D:\韦广豪\Documents\VisualStudio2019项目1文件\学生管理系统1\Debug\学生管理系统1.exe
